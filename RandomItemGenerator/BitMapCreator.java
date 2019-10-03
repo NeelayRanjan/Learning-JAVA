@@ -1,5 +1,3 @@
-package com.Learning;
-
 import javax.swing.*;
 import java.awt.*;
 public class BitMapCreator extends JComponent{
