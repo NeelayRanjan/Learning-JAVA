@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-public class BitMapCreator extends JComponent{
+public class BitMapGenerator extends JComponent{
     private int iterations;
     private int density;
     public void paintComponent(Graphics g){
